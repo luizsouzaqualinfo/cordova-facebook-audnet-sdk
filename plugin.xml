@@ -19,12 +19,12 @@
     </engines>
 
     <platform name="android">
-      <framework src="com.google.android.gms:play-services-ads:+"/>
+      <!-- framework src="com.google.android.gms:play-services-ads:+"/-->
       <framework src="com.facebook.android:audience-network-sdk:+"/>
      </platform>
      
     <platform name="amazon-fireos">
-      <framework src="com.google.android.gms:play-services-ads:+"/>
+      <!-- framework src="com.google.android.gms:play-services-ads:+"/-->
       <framework src="com.facebook.android:audience-network-sdk:+"/>
      </platform>
 
